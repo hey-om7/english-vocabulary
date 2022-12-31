@@ -238,7 +238,7 @@ uncertain, indefinite, or unclear
 >
 --
 jeopardize:
-put (someone or something) into a situation in which there is a danger of loss, harm, or failure.
+put (someone or something) into a situation in which there is a danger of loss, harm, or failure;to do something that may damage something or put it at risk.
 >This may jeopardize further chances of employment.
 
 --
@@ -440,7 +440,7 @@ very strange or unusual.
 --
 
 manifest:
-to show something clearly, through signs or actions
+to show something clearly, through signs or actions;to show something or to be shown clearly.
 >
 
 --
@@ -650,6 +650,264 @@ someone who says they have particular moral beliefs but behaves in way that show
 cliche:
 NA
 >
+
+--
+
+indulgent:
+NA
+>
+
+--
+
+cliche:
+NA
+>
+--
+Contingent:
+NA
+>
+
+--
+
+conviction:
+NA
+>
+
+--
+integrity:
+the quality of being honest and having strong moral principles.
+>
+
+--
+arbitrary:
+based on random choice or personal whim, rather than any reason or system.
+>
+
+cringe:
+embarrassing, awkward
+>
+--
+innocuous:
+not harmful or offensive; completely harmless
+>
+
+--
+veteran:
+an ex-member of the armed forces; a person who has had long experience in a particular field.
+>
+
+--
+
+insinuate:
+NA
+>
+--
+
+haggle:
+NA
+>
+
+--
+
+bugger:
+NA
+>
+
+--
+
+feisty:
+NA
+>
+--
+
+Agonizing:
+causing extreme worry or pain.
+>
+
+--
+subjugate:
+to defeat somebody/something and make them obey you; to gain control over somebody/something.
+>
+
+--
+
+jinx:
+bad luck; a person or thing that people believe brings bad luck to somebody/something.
+>I thought we would win, but I didn't say so – I didn't want to jinx it.
+
+--
+
+expunged:
+obliterate or remove completely (something unwanted or unpleasant).
+>His name has been expunged from the list of members.
+
+--
+freckles:
+a small brown spot on your skin.
+>She is a tall woman, with freckles on her cheeks.
+
+--
+
+reacquainted:
+familiar with something or someone again.
+>Getting reacquainted with her father has been a slow process.
+
+--
+
+chandler:
+a dealer in household items such as oil, soap, paint, and groceries.
+>
+
+--
+Little pimp/ lil pimp:
+A boy under the age of 16, who wears gold and platinum chains, tradiditonal, "gangsta" clothing.
+>
+
+--
+truncate:
+To make something shorter, especially by cutting off the top or end.
+>
+
+--
+
+winter years of life:
+Period of being elderly.
+>
+
+--
+anomaly:
+something that is different from what is normal or usual.
+>
+
+--
+
+mitigate:
+to make something less serious, painful, unpleasant, etc.
+>
+
+--
+
+infamous:
+famous for being bad.
+>
+
+--
+
+dawned on me:
+to begin to be understood or realized by (someone) for the first time
+>
+
+--
+miffed:
+somewhat annoyed; peeved.
+>
+
+--
+Paranoid:
+wrongly believing that other people are trying to harm you or are saying bad things about you.
+>
+
+--
+Verdict:
+the decision that is made by a specially chosen group of people (the jury) in a court of law, which states if a person is guilty of a crime or not.
+>
+
+--
+
+protagonist:
+the main character in a play, film or book.
+>
+
+--
+
+crux:
+the most important or difficult part of a problem.
+>
+
+--
+mediocre:
+of not very high quality.
+>
+
+--
+
+lash out:
+hit or kick out at someone or something.
+>
+
+--
+horrendous:
+very bad or unpleasant.
+>
+
+--
+
+reconcile:
+to make people become friends again after an argument.
+>
+
+--
+icky:
+unpleasantly sticky.
+>
+--
+
+mitigate:
+to make something less serious, painful, unpleasant, etc.
+>
+
+--
+
+impede:
+to make it difficult for somebody/something to move or go forward.
+>Carrying six heavy bags will impede your progress.
+
+--
+Blunt:
+very direct; saying what you think without trying to be polite.
+>
+
+--
+Abide:
+accept or act in accordance with
+>I said I would abide by their decision
+
+--
+lowkey:
+To some extent.
+>
+--
+vortex:
+a mass of air, water, etc. that turns around very fast and pulls things into its centre.
+>
+--
+petrified:
+very frightened.
+>
+--
+morbid:
+showing interest in unpleasant things, for example disease and death.
+>
+
+--
+
+disgruntled:
+unhappy, annoyed, and disappointed about something.
+>
+--
+
+stranded:
+left in a place that you cannot get away from.
+>
+
+--
+imbecile:
+A stupid person.
+>
+--
+mull:
+think about (a fact, proposal, or request) deeply and at length.
+>Don't just keep mulling about it.
 
 
 
