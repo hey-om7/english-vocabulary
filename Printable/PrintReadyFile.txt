@@ -460,7 +460,7 @@ eg:
 154.) miffed:  somewhat annoyed; peeved.
 eg: 
 --------------------
-155.) Paranoid:  wrongly believing that other people are trying to harm you or are saying bad things about you.
+155.) Paranoid:  suspicious, or mistrustful;wrongly believing that other people are trying to harm you or are saying bad things about you.
 eg: 
 --------------------
 156.) Verdict:  the decision that is made by a specially chosen group of people (the jury) in a court of law, which states if a person is guilty of a crime or not.
@@ -500,22 +500,22 @@ eg:
 eg: I said I would abide by their decision
 --------------------
 168.) lowkey:  To some extent.
-eg: 
+eg: He wanted to keep the party lowkey, just a small gathering of close friends.
 --------------------
 169.) vortex:  a mass of air, water, etc. that turns around very fast and pulls things into its centre.
 eg: 
 --------------------
 170.) petrified:  very frightened.
-eg: 
+eg: The little girl was petrified when she saw the snake.
 --------------------
 171.) morbid:  showing interest in unpleasant things, for example disease and death.
 eg: 
 --------------------
 172.) disgruntled:  unhappy, annoyed, and disappointed about something.
-eg: 
+eg: The customers were disgruntled due to long waiting time and poor service.
 --------------------
 173.) stranded:  left in a place that you cannot get away from.
-eg: 
+eg: They were stranded on the island with no way to contact the outside world.
 --------------------
 174.) imbecile:  A stupid person.
 eg: 
@@ -569,22 +569,22 @@ eg:
 eg: she's got a fag in her mouth.
 --------------------
 191.) intuitive:  using or based on what one feels to be true even without conscious reasoning; instinctive.
-eg: 
+eg: His approach to problem-solving was intuitive.
 --------------------
 192.) intimidated:  frighten or overawe (someone), especially in order to make them do what one wants.
 eg: 
 --------------------
 193.) rueful:  expressing sorrow or regret, especially in a wry or humorous way.
-eg: she gave a rueful grin.
+eg: She felt rueful about her mistake and wished she could go back in time to fix it.
 --------------------
 194.) ruthless:  having or showing no pity or compassion for others.
 eg: 
 --------------------
 195.) culmination:  Climax.
-eg: 
+eg: The culmination of his hard work was finally paying off.
 --------------------
 196.) layman:  a person without professional or specialized knowledge in a particular subject.
-eg: 
+eg: I will explain it in layman's terms so that everyone can understand.
 --------------------
 197.) niche:  a specialized segment of the market for a particular kind of product or service.
 eg: 
@@ -593,8 +593,149 @@ eg:
 eg: 
 --------------------
 199.) teetotaller:  a person who never drinks alcohol.
-eg: 
+eg: He is a teetotaler and has never touched alcohol, not even a drop.
 --------------------
 200.) swindle:  to get something by dishonesty or deception
 eg: Was he a legit fitness trainer or did he swindle you?
+--------------------
+201.) clingy:  tending to stay very close to someone; too emotionally dependent.
+eg: 
+--------------------
+202.) ajar:  (of a door or other opening) slightly open.
+eg: She purposely left the door ajar.
+--------------------
+203.) bipolar:  used to describe someone who experiences intense mood swings.
+eg: She sounds so bipolar.
+--------------------
+204.) sceptical:  not easily convinced; having doubts or reservations.
+eg: 
+--------------------
+205.) fling:  throw or hurl forcefully; a short period of enjoyment or wild behaviour.
+eg: He couldn't resist the urge to fling his laptop across the room in frustration.
+--------------------
+206.) fluke:  an unlikely chance occurrence, especially a surprising piece of luck.
+eg: The joke she cracked a moment ago, maybe it was just a fluke.
+--------------------
+207.) Disruptive:  Causing disruption;Causing Trouble.
+eg: 
+--------------------
+208.) Facet:  One side of something multisided.
+eg: 
+--------------------
+209.) tantrum:  an uncontrolled outburst of anger and frustration, typically in a young child.
+eg: 
+--------------------
+210.) sober:  not affected by alcohol; not drunk.
+eg: 
+--------------------
+211.) relentless:  unceasingly intense; harsh or inflexible.
+eg: 
+--------------------
+212.) Ratting out:  to tell somebody in authority about something wrong that somebody else has done.
+eg: stop ratting me out
+--------------------
+213.) spike your drink:  when someone puts drugs or alcohol into your drink without you knowing.
+eg: 
+--------------------
+214.) bizarre:  very strange or unusual.
+eg: That was a bizarre situation.
+--------------------
+215.) dig up old bones:  Purane batein bhul jate hain.
+eg: 
+--------------------
+216.) pedo:  NULL
+eg: you're a fucking pedo
+--------------------
+217.) Crib:  copy (another person's work) illicitly or without acknowledgement.
+eg: 
+--------------------
+218.) Coax:  gently and persistently persuade (someone) to do something.
+eg: The trainees were coaxed into doing boring work.
+--------------------
+219.) vigilant:  keeping careful watch for possible danger or difficulties.
+eg: The burglar was spotted by vigilant neighbours.
+--------------------
+220.) thumping your chest:  Proudly walking in pride
+eg: 
+--------------------
+221.) hollering:  give a loud shout or cry.
+eg: 
+--------------------
+222.) street urchin:  A child who lives, or spends most of his or her time, in the streets; sometimes a petty thief or pickpocket.
+eg: 
+--------------------
+223.) Gaslight:  To gaslight someone means to manipulate another person into doubting their own perceptions, experiences or understanding of events.
+eg: don't gaslight me
+--------------------
+224.) whack:  strike forcefully with a sharp blow.
+eg: I'll whack you with this ruler.
+--------------------
+225.) anecdotally:  according to or by means of personal accounts rather than facts or research.
+eg: such information is only available anecdotally
+--------------------
+226.) prejudiced:  having or showing a dislike or distrust that is derived from prejudice.
+eg: people are prejudiced against us.
+--------------------
+227.) hypocrite:  A hypocrite is someone who says or believes one thing, but behaves in a different way. A hypocrite acts in a way that contradicts their own beliefs or opinions, which makes them appear insincere and counter productive.
+eg: 
+--------------------
+228.) undisputed:  Undoubted; not disputed or called in question.
+eg: 
+--------------------
+229.) majestic:  having or showing impressive beauty or scale.
+eg: 
+--------------------
+230.) I am sorry if i overstayed my welcome:  To remain a guest in a place, especially someone's home, for too long, to the point where the host no longer wishes one to stay.
+eg: I am sorry if i overstayed my welcome
+--------------------
+231.) sue me:  sarcastically used to suggest that a person who does not like the actions or opinions of the speaker can respond by filing a lawsuit against the speaker.
+eg: 
+--------------------
+232.) decoy:  None
+eg: 
+--------------------
+233.) indisposed:  slightly unwell; unwilling.
+eg: 
+--------------------
+234.) sabotage:  destroy, damage, or obstruct
+eg: 
+--------------------
+235.) platonic relationship:  Relationship is one in which two people share a close bond but do not have a sexual relationship
+eg: 
+--------------------
+236.) ecstatic:  feeling or expressing overwhelming happiness or joyful excitement.
+eg: I am ecstatic.
+--------------------
+237.) euphoric:  characterized by or feeling intense excitement and happiness.
+eg: 
+--------------------
+238.) perpetuate:  make (something) continue indefinitely.
+eg: 
+--------------------
+239.) meticulously:  With great attention to detail.
+eg: 
+--------------------
+240.) perplexed:  completely baffled; very puzzled.
+eg: 
+--------------------
+241.) baffeld:  Confused.
+eg: 
+--------------------
+242.) donned:  put on (an item of clothing).
+eg: In the dressing room the players donned their football shirts.
+--------------------
+243.) collated:  collect and combine(texts, info, data)
+eg: All the information obtained is being collated
+--------------------
+244.) nudge:  touch or push (something) gently or gradually, sometimes to get someone's attention.
+eg: People were nudging each other and pointing at me.
+--------------------
+245.) hodgepodge:  a confused mixture; a hotchpotch.
+eg: Rob's living room was a hodgepodge of modern furniture and antiques.
+--------------------
+246.) prodigy:  A young person with exceptional qualities or abilities.
+eg: A Russian pianist who was a child prodigy in his day.
+--------------------
+247.) haphazard:  lacking any obvious principle of organization.
+eg: The music business works in a haphazard fashion.
 --------------------

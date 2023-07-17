@@ -804,7 +804,7 @@ somewhat annoyed; peeved.
 
 --
 Paranoid:
-wrongly believing that other people are trying to harm you or are saying bad things about you.
+suspicious, or mistrustful;wrongly believing that other people are trying to harm you or are saying bad things about you.
 >
 
 --
@@ -875,7 +875,7 @@ accept or act in accordance with
 --
 lowkey:
 To some extent.
->
+>He wanted to keep the party lowkey, just a small gathering of close friends.
 --
 vortex:
 a mass of air, water, etc. that turns around very fast and pulls things into its centre.
@@ -883,7 +883,7 @@ a mass of air, water, etc. that turns around very fast and pulls things into its
 --
 petrified:
 very frightened.
->
+>The little girl was petrified when she saw the snake.
 --
 morbid:
 showing interest in unpleasant things, for example disease and death.
@@ -893,12 +893,12 @@ showing interest in unpleasant things, for example disease and death.
 
 disgruntled:
 unhappy, annoyed, and disappointed about something.
->
+>The customers were disgruntled due to long waiting time and poor service.
 --
 
 stranded:
 left in a place that you cannot get away from.
->
+>They were stranded on the island with no way to contact the outside world.
 
 --
 imbecile:
@@ -987,7 +987,7 @@ a cigarette.
 
 intuitive:
 using or based on what one feels to be true even without conscious reasoning; instinctive.
->
+>His approach to problem-solving was intuitive.
 
 --
 intimidated:
@@ -997,7 +997,7 @@ frighten or overawe (someone), especially in order to make them do what one want
 --
 rueful:
 expressing sorrow or regret, especially in a wry or humorous way.
->she gave a rueful grin.
+>She felt rueful about her mistake and wished she could go back in time to fix it.
 
 --
 
@@ -1010,12 +1010,12 @@ having or showing no pity or compassion for others.
 
 culmination:
 Climax.
->
+>The culmination of his hard work was finally paying off.
 
 --
 layman:
 a person without professional or specialized knowledge in a particular subject.
->
+>I will explain it in layman's terms so that everyone can understand.
 
 --
 niche:
@@ -1031,10 +1031,269 @@ a willingness to take bold risks;rude or disrespectful behaviour.
 --
 teetotaller:
 a person who never drinks alcohol.
->
+>He is a teetotaler and has never touched alcohol, not even a drop.
 
 --
 swindle:
 to get something by dishonesty or deception
 >Was he a legit fitness trainer or did he swindle you?
+
+--
+
+clingy:
+tending to stay very close to someone; too emotionally dependent.
+>
+--
+ajar:
+(of a door or other opening) slightly open.
+>She purposely left the door ajar.
+
+--
+bipolar:
+used to describe someone who experiences intense mood swings.
+>She sounds so bipolar.
+
+--
+sceptical:
+not easily convinced; having doubts or reservations.
+>
+
+--
+
+fling:
+throw or hurl forcefully; a short period of enjoyment or wild behaviour.
+>He couldn't resist the urge to fling his laptop across the room in frustration.
+
+--
+fluke:
+an unlikely chance occurrence, especially a surprising piece of luck.
+>The joke she cracked a moment ago, maybe it was just a fluke.
+
+--
+Disruptive:
+Causing disruption;Causing Trouble.
+>
+--
+
+Facet:
+One side of something multisided.
+>
+
+--
+tantrum:
+an uncontrolled outburst of anger and frustration, typically in a young child.
+>
+
+--
+
+sober:
+not affected by alcohol; not drunk.
+>
+
+--
+
+relentless:
+unceasingly intense; harsh or inflexible.
+>
+
+--
+
+Ratting out:
+to tell somebody in authority about something wrong that somebody else has done.
+>stop ratting me out
+
+--
+
+spike your drink:
+when someone puts drugs or alcohol into your drink without you knowing.
+>
+
+--
+
+bizarre:
+very strange or unusual.
+>That was a bizarre situation.
+
+
+--
+
+dig up old bones:
+Purane batein bhul jate hain.
+>
+
+--
+
+pedo:
+NULL
+>you're a fucking pedo 
+
+--
+
+Crib:
+copy (another person's work) illicitly or without acknowledgement.
+>
+
+--
+
+Coax:
+gently and persistently persuade (someone) to do something.
+>The trainees were coaxed into doing boring work.
+
+--
+vigilant:
+keeping careful watch for possible danger or difficulties.
+>The burglar was spotted by vigilant neighbours.
+
+--
+
+thumping your chest:
+Proudly walking in pride
+>
+
+--
+
+hollering:
+give a loud shout or cry.
+>
+
+--
+street urchin:
+A child who lives, or spends most of his or her time, in the streets; sometimes a petty thief or pickpocket.
+>
+
+--
+Gaslight:
+To gaslight someone means to manipulate another person into doubting their own perceptions, experiences or understanding of events.
+>don't gaslight me
+
+--
+whack:
+strike forcefully with a sharp blow.
+>I'll whack you with this ruler.
+
+--
+
+anecdotally:
+according to or by means of personal accounts rather than facts or research.
+>such information is only available anecdotally
+
+
+--
+prejudiced:
+having or showing a dislike or distrust that is derived from prejudice.
+>people are prejudiced against us.
+
+--
+hypocrite:
+A hypocrite is someone who says or believes one thing, but behaves in a different way. A hypocrite acts in a way that contradicts their own beliefs or opinions, which makes them appear insincere and counter productive.
+>
+
+--
+
+undisputed:
+Undoubted; not disputed or called in question.
+>
+
+--
+majestic:
+having or showing impressive beauty or scale.
+>
+
+--
+I am sorry if i overstayed my welcome:
+To remain a guest in a place, especially someone's home, for too long, to the point where the host no longer wishes one to stay.
+>I am sorry if i overstayed my welcome
+
+--
+sue me:
+sarcastically used to suggest that a person who does not like the actions or opinions of the speaker can respond by filing a lawsuit against the speaker.
+>
+
+--
+decoy:
+None
+>
+--
+indisposed:
+slightly unwell; unwilling.
+>
+
+--
+
+sabotage:
+destroy, damage, or obstruct
+>
+
+--
+
+platonic relationship:
+Relationship is one in which two people share a close bond but do not have a sexual relationship
+>
+--
+ecstatic:
+feeling or expressing overwhelming happiness or joyful excitement.
+>I am ecstatic.
+
+--
+euphoric:
+characterized by or feeling intense excitement and happiness.
+>
+--
+perpetuate:
+make (something) continue indefinitely.
+>
+
+--
+meticulously:
+With great attention to detail.
+>
+
+--
+
+perplexed:
+completely baffled; very puzzled.
+>
+
+--
+baffeld:
+Confused.
+>
+
+--
+donned:
+put on (an item of clothing).
+>In the dressing room the players donned their football shirts.
+
+
+--
+collated:
+collect and combine(texts, info, data)
+>All the information obtained is being collated
+
+
+--
+nudge:
+touch or push (something) gently or gradually, sometimes to get someone's attention.
+>People were nudging each other and pointing at me.
+
+--
+
+hodgepodge:
+a confused mixture; a hotchpotch.
+>Rob's living room was a hodgepodge of modern furniture and antiques.
+
+--
+
+prodigy:
+A young person with exceptional qualities or abilities.
+>A Russian pianist who was a child prodigy in his day.
+
+
+--
+haphazard:
+lacking any obvious principle of organization.
+>The music business works in a haphazard fashion.
+
+
+
 
